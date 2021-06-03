@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PESSOAS>
+  <PESSOA>
+    <ID>1</ID>
+    <NOME>JOÃO</NOME>
+    <IDADE>13</IDADE>
+    <CIDADE>VOLTA REDONDA</CIDADE>
+  </PESSOA>
+  <PESSOA>
+    <ID>2</ID>
+    <NOME>JÚLIA</NOME>
+    <IDADE>17</IDADE>
+    <CIDADE>ENGENHEIRO PAULO DE FRONTIN</CIDADE>
+  </PESSOA>
+</PESSOAS>
